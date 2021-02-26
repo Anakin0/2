@@ -24,3 +24,4 @@ uvicorn
 fastapi
 streamlit
 requests
+chardet 1.0.1
